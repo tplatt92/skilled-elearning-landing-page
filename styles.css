@@ -177,7 +177,7 @@ nav>img {
 /*header styling*/
 
 header {
-    padding-top: 2rem;
+    padding-top: 1rem;
     margin-left: 1.6rem;
     margin-right: 1.6rem;
 }
@@ -371,10 +371,10 @@ footer img {
     }
 
     .hero-title {
-        padding-top: 10rem;
-        padding-bottom: 5rem;
-        max-width: 800px;
-        min-width: 800px;
+        padding-top: 5rem;
+        padding-bottom: 10rem;
+        max-width: 600px;
+        min-width: 600px;
     }
 
     h1 {
@@ -384,9 +384,10 @@ footer img {
 
 
     .hero-title p {
-        min-width: 450px;
-        max-width: 450px;
+        min-width: 440px;
+        max-width: 440px;
         font-size: 18px;
+        padding-bottom: 2rem;
     }
 
     button {
