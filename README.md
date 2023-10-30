@@ -1,9 +1,10 @@
-Link to live site: https://tplatt92.github.io/skilled-elearning-landing-page/
+
 
 Skilled eLearning Landing Page Challenge
 <br>
 <br>
 Welcome to the Skilled eLearning Landing Page project! This project was completed as part of the Frontend Mentor challenges, aimed at enhancing frontend development skills by working on real-world projects.
+Link to live site: https://tplatt92.github.io/skilled-elearning-landing-page/
 
 Project Overview
 <br>
