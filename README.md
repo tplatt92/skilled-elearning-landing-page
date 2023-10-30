@@ -4,7 +4,6 @@ Skilled eLearning Landing Page Challenge
 <br>
 <br>
 Welcome to the Skilled eLearning Landing Page project! This project was completed as part of the Frontend Mentor challenges, aimed at enhancing frontend development skills by working on real-world projects.
-Link to live site: https://tplatt92.github.io/skilled-elearning-landing-page/
 
 Project Overview
 <br>
@@ -23,6 +22,9 @@ Features
 Responsive Design: The landing page is fully responsive, providing an optimal viewing experience on devices of all sizes, including desktops, tablets, and smartphones.
 Interactive Elements: Various interactive elements have been incorporated to enhance user engagement and provide a modern user experience.
 Cross-Browser Compatibility: The landing page is compatible with popular web browsers, ensuring consistent performance for all users.
+<br>
+<br>
+Link to live site: https://tplatt92.github.io/skilled-elearning-landing-page/
 
 Acknowledgements
 <br>
